@@ -1,0 +1,33 @@
+/* This sheet affects the appearance of elements in the html files */
+p{
+    font-weight: bold;
+}
+ol{
+    list-style-position: inside;
+    font-size: 15px;
+}
+ul{
+    font-style: italic;
+}
+#Top{
+    text-decoration: underline;
+    font-size: 50px;
+}
+.important{
+    font-style: italic;
+    color: #ecdb42;
+    font-weight: bold;
+}
+body{
+    background-color: #F1C8DB;
+    font-family: josefin-sans, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    color: #CCFF66;
+}
+/* ol{
+    text-decoration: underline;
+} */
